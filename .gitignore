@@ -1,0 +1,8 @@
+ignore
+.DS_Store
+.env
+.vscode
+node_modules
+dist
+*.traineddata
+*.traineddata.gz
